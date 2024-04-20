@@ -17,3 +17,7 @@ git add -A && git commit -m "Update Feed"
 git push --set-upstream origin main
 
 echo "====================="
+
+
+#command to update  entrypoint.sh permission
+#chmod -R 775 entrypoint.sh
